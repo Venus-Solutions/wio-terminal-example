@@ -1,3 +1,7 @@
+### Arduino IDE
+```
+https://inex.co.th/store/software/Arduino1.8.16_Setup211210.exe
+```
 ### Additional Boards Manager URLs
 ```
 https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
@@ -12,10 +16,14 @@ Grove-3-Axis-Digital-Accelerometer-2g-to-16g-LIS3DHTR by Seeed Studio
 Seeed Arduino RTC by Seeed Studio
 Seeed Arduino rpcWiFi by hongtai.liu for SeeedStudio
 Seeed Arduino rpcBLE by Seeed Studio
+BH1750 by Christopher Laws
+DHT sensor library by Adafruit
+Adafruit MLX90614
 ```
 ### Library URLs
 ```
 https://github.com/Seeed-Studio/Seeed_Arduino_Histogram
+https://github.com/DFRobot/DFRobot_MAX30102
 ```
 ### WIO Firmware Flashing
 ```
