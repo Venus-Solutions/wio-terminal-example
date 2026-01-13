@@ -19,6 +19,10 @@ Seeed Arduino rpcBLE by Seeed Studio
 BH1750 by Christopher Laws
 DHT sensor library by Adafruit
 Adafruit MLX90614
+Blynk by Volodymyr Shymanskyy
+ArduinoOTA
+ArduinoHttpClient by Arduino
+Adafruit ZeroTimer
 ```
 ### Library URLs
 ```
